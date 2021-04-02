@@ -6,7 +6,9 @@
 
 ## Chapter 3
 - 3.1 ~ 3.4
-
+ main
+## Chapter 5
+- 가우시안 분포로 확장하는, 고정너비 fracdiff 설명
 # Codes
 code올려주세요 
-
+ main
